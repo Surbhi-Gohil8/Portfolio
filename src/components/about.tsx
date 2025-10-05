@@ -54,7 +54,7 @@ export function About() {
             </h3>
             <div className="space-y-4 text-slate-600 dark:text-slate-300">
   <p>
-    I'm a passionate software developer and a 3rd-year student currently pursuing my degree in 
+    I&apos;m a passionate software developer and a 3rd-year student currently pursuing my degree in 
     Computer Science and Engineering. I enjoy designing and building 
     efficient, scalable, and user-friendly applications that make an impact.
   </p>
@@ -62,7 +62,7 @@ export function About() {
   <p>
     My journey in software development started during my college years, where I began exploring 
     programming, web technologies, and real-world problem-solving through projects and internships. 
-    Since then, I’ve worked on several hands-on projects that strengthened my skills in both frontend 
+    Since then, I&apos;ve worked on several hands-on projects that strengthened my skills in both frontend 
     and backend development.
   </p>
 
