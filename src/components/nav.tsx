@@ -3,8 +3,6 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
-import logo from "../../public/logo.png";
-import Image from 'next/image';
 const navItems = [
   { name: 'Home', href: '#home' },
   { name: 'About', href: '#about' },

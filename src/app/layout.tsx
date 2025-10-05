@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'tailwind css',
     'fullstack developer'
   ],
-  authors: [{ name: 'Your Name', url: 'https://yourwebsite.com' }],
+  authors: [{ name: 'Surbhi Gohil', url: 'https://yourwebsite.com' }],
   creator: 'Your Name',
   publisher: 'Your Name',
   openGraph: {
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     creator: '@yourtwitter',
   },
   icons: {
-    icon: '/favicon.ico',
+    icon: '/logo.png',
     shortcut: '/favicon-16x16.png',
     apple: '/apple-touch-icon.png',
   },

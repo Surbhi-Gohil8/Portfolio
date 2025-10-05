@@ -61,7 +61,7 @@ export function Projects() {
           </h2>
           <div className="w-20 h-1 bg-blue-600 mx-auto mt-4 rounded-full" />
           <p className="mt-6 text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
-            Here are some of the projects I've worked on. Each project represents a unique challenge and learning experience.
+            Here are some of the projects I&apos;ve worked on. Each project represents a unique challenge and learning experience.
           </p>
         </div>
 

@@ -14,7 +14,7 @@ export function Hero() {
           className="mb-8"
         >
           <p className="text-lg text-blue-600 dark:text-blue-400 font-medium mb-4">
-            Hello, I'm
+            Hello, I&apos;m
           </p>
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-slate-900 dark:text-white mb-6">
             Surbhi Gohil
@@ -23,7 +23,7 @@ export function Hero() {
           Transforming concepts into code.
           </h2>
           <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mb-10">
-          I'm a passionate software developer specializing in building exceptional digital solutions. Currently, I'm focused on creating reliable, scalable, and human-centered applications.
+          I&apos;m a passionate software developer specializing in building exceptional digital solutions. Currently, I&apos;m focused on creating reliable, scalable, and human-centered applications.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a
