@@ -47,7 +47,7 @@ const projects = [
                     priority
                   />,
     github: 'https://github.com/Surbhi-Gohil8/Portfolio',
-    demo: 'https://analytics-demo.vercel.app',
+    demo: 'https://portfolio-or4g.vercel.app/',
   },
 ];
 
